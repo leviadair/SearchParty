@@ -1,0 +1,3 @@
+rootProject.name = 'SearchPartyApp'
+
+include ':app'
